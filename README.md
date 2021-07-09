@@ -1,1 +1,1 @@
-# placememnt_preparation_site_using_django
+# placement_preparation_site_using_django
